@@ -1,0 +1,15 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "no descr",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx webpack"
+  },
+  "author": "rudis",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
